@@ -1,0 +1,15 @@
+venv/
+venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+.venv
+.git
+.gitignore
+verset.db
+node_modules
+*.log
